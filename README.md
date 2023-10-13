@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/kotlin-1.9.10-blue)
 ![](https://img.shields.io/badge/archunit-1.1.0-pink)
 ![](https://img.shields.io/badge/junit-5.6.0-orangered)
+[![Java 21 CI with Maven](https://github.com/allanneves/archunit-examples/actions/workflows/maven.yml/badge.svg)](https://github.com/allanneves/archunit-examples/actions/workflows/maven.yml)
 
 # Examples of Code Design and Architectural Tests for Java Codebases using ArchUnit
 
